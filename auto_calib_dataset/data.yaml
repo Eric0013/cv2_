@@ -1,0 +1,5 @@
+path: C:\Users\lien9\Desktop\robort-main\auto_calib_dataset
+train: train/images
+val: val/images
+names:
+  0: hole
